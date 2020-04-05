@@ -1,2 +1,1 @@
-# ejemplo
-version1
+#Git avanzado
